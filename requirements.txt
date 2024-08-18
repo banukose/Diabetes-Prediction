@@ -1,0 +1,7 @@
+flask == 3.0.3
+joblib == 1.2.0
+pandas == 1.4.3
+numpy == 2.0
+matplotlib == 3.5.1
+seaborn == 0.13.0
+scikit-learn == 1.5.1
